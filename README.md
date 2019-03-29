@@ -23,7 +23,7 @@ class MainApp(App):
 
 if __name__ == "__main__":
     MainApp().run()
-    ```
+  ```
 
 ![Alt text](example_run.PNG?raw=true "How it displayed where I Live!")
 
